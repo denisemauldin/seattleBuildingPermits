@@ -1,0 +1,24 @@
+[
+    {
+		"pk": 1,
+		"model": "permits.PermitType",
+		"fields": {
+			"name": "Construction"
+		}
+    },
+   {
+	   "pk": 2,
+		"model": "permits.PermitType",
+		"fields": {
+            "name": "Site Development"
+	    }
+    },
+   {
+	   "pk": 3,
+		"model": "permits.PermitType",
+		"fields": {
+           "name": "Demolition"
+	    }
+   }
+]
+
